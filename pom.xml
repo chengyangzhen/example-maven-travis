@@ -16,6 +16,20 @@
     <developerConnection>scm:git:git@github.com:BlackDuckCoPilot/example-maven-travis.git</developerConnection>
     <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
   </scm>
+ 
+   <repositories>
+		<repository>
+			<id>my-repo1</id>
+			<name>your custom repo</name>
+			<url>https://artifacts.alfresco.com/nexus/content/repositories/public/</url>
+		</repository>
+
+		<repository>
+			<id>my-repo2</id>
+			<name>your custom repo</name>
+			<url>https://packages.atlassian.com/maven-public/</url>
+		</repository>
+	</repositories>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
