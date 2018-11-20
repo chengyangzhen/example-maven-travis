@@ -67,19 +67,19 @@
       <groupId>org.springframework.integration</groupId>
       <artifactId>spring-integration-zip</artifactId>
       <version>1.0.0</version>
-    </dependency> -->
+    </dependency> 
 	  
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik</artifactId>
       <version>1</version>
-    </dependency>
+    </dependency> -->
 	  
-   <!-- <dependency>
+    <dependency>
       <groupId>org.apache.drill</groupId>
       <artifactId>distribution</artifactId>
       <version>1.11.0</version>
-    </dependency> --> 
+    </dependency> 
 	  	  
   </dependencies>
 </project>
