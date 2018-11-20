@@ -38,18 +38,18 @@
 	
   <dependencies>
 	  
-<!-- <dependency>
+<dependency>
     <groupId>org.apache.activemq</groupId>
     <artifactId>activemq-all</artifactId>
     <version>5.0.0</version>
-</dependency> -->
+</dependency> 
 
 	  
-   <dependency>
+   <!--<dependency>
       <groupId>org.apache.nifi</groupId>
       <artifactId>nifi-utils</artifactId>
       <version>1.0.0</version>
-    </dependency>
+    </dependency> --> 
 	  
    <!-- <dependency>
       <groupId>org.apache.archiva</groupId>
