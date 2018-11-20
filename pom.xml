@@ -49,7 +49,6 @@
       <groupId>org.apache.nifi</groupId>
       <artifactId>nifi-utils</artifactId>
       <version>1.0.0</version>
-      <systemPath>${basedir}/src/lib/utilita.jar</systemPath>
     </dependency>
 	  
    <!-- <dependency>
