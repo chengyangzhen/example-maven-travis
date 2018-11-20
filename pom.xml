@@ -30,7 +30,7 @@
       <version>5.0.0</version>
     </dependency>
 	  
-    <dependency>
+   <!-- <dependency>
       <groupId>org.apache.nifi</groupId>
       <artifactId>nifi-utils</artifactId>
       <version>1.0.0</version>
@@ -64,7 +64,7 @@
       <groupId>org.apache.drill</groupId>
       <artifactId>distribution</artifactId>
       <version>1.11.0</version>
-    </dependency>
+    </dependency> --> 
 	  	  
   </dependencies>
 </project>
